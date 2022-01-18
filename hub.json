@@ -176,6 +176,7 @@
     ],
     "Matatika": [
         "dbt-tap-googleads",
+        "dbt-tap-google-analytics",
         "dbt-tap-solarvista"
     ],
     "tuva-health": [
