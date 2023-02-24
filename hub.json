@@ -28,7 +28,8 @@
         "dbt-tap-meltano",
         "dbt-tap-trello",
         "dbt-tap-google-analytics",
-        "dbt-tap-spotify"
+        "dbt-tap-spotify",
+        "dbt-tap-github"
     ],
     "MaterializeInc": [
         "materialize-dbt-utils"
